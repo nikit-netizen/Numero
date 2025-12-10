@@ -119,8 +119,15 @@ object NumerologyConstants {
         'त', 'थ', 'द', 'ध', 'न',
         'प', 'फ', 'ब', 'भ', 'म',
         'य', 'र', 'ल', 'व',
-        'श', 'ष', 'स', 'ह',
-        'क्ष', 'त्र', 'ज्ञ'
+        'श', 'ष', 'स', 'ह'
+    )
+
+    /**
+     * Nepali conjunct consonants (Devnagari script - multiple character sequences).
+     * These are stored as strings since they consist of multiple Unicode characters.
+     */
+    val NEPALI_CONJUNCT_CONSONANTS: Set<String> = setOf(
+        "क्ष", "त्र", "ज्ञ"
     )
 
     /**
