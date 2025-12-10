@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme - Compose handles theming, but this is needed for splash -->
+    <style name="Theme.Numero" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_primary</item>
+        <item name="android:navigationBarColor">@color/surface_light</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Splash screen theme -->
+    <style name="Theme.Numero.Splash" parent="Theme.Numero">
+        <item name="android:windowBackground">@color/purple_primary</item>
+    </style>
+</resources>

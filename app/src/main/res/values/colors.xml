@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="purple_primary">#6B4EE6</color>
+    <color name="purple_primary_variant">#5A3DD1</color>
+    <color name="purple_light">#8B7AEB</color>
+    <color name="purple_dark">#4A35B0</color>
+
+    <!-- Secondary colors -->
+    <color name="gold_accent">#FFD700</color>
+    <color name="teal_accent">#00BFA5</color>
+
+    <!-- Background colors -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#1E1E1E</color>
+
+    <!-- Text colors -->
+    <color name="text_primary_light">#1A1A1A</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_light">#666666</color>
+    <color name="text_secondary_dark">#B3B3B3</color>
+
+    <!-- Number colors -->
+    <color name="number_1">#E53935</color>
+    <color name="number_2">#FF9800</color>
+    <color name="number_3">#FDD835</color>
+    <color name="number_4">#43A047</color>
+    <color name="number_5">#00ACC1</color>
+    <color name="number_6">#1E88E5</color>
+    <color name="number_7">#7E57C2</color>
+    <color name="number_8">#8D6E63</color>
+    <color name="number_9">#EC407A</color>
+    <color name="number_master">#FFD700</color>
+
+    <!-- Compatibility colors -->
+    <color name="compatibility_excellent">#4CAF50</color>
+    <color name="compatibility_good">#8BC34A</color>
+    <color name="compatibility_moderate">#FFC107</color>
+    <color name="compatibility_challenging">#FF5722</color>
+</resources>

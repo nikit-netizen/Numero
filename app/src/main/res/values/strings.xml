@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Numero</string>
+    <string name="version_number">Version 1.0.0</string>
+    <string name="version_info">Version and app information</string>
+
+    <!-- Common -->
+    <string name="skip">Skip</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="current">Current</string>
+    <string name="view_all">View All</string>
+    <string name="recalculate">Recalculate</string>
+    <string name="calculating">Calculating...</string>
+
+    <!-- Onboarding -->
+    <string name="get_started">Get Started</string>
+    <string name="onboarding_title_1">Discover Your Numbers</string>
+    <string name="onboarding_desc_1">Uncover the hidden meanings in your name and birth date through the ancient science of numerology.</string>
+    <string name="onboarding_title_2">Personalized Analysis</string>
+    <string name="onboarding_desc_2">Get detailed insights into your Life Path, Expression, Soul Urge, and many more core numbers.</string>
+    <string name="onboarding_title_3">Relationship Compatibility</string>
+    <string name="onboarding_desc_3">Explore the numerological compatibility between you and others to understand relationship dynamics.</string>
+    <string name="onboarding_title_4">Life Cycles &amp; Guidance</string>
+    <string name="onboarding_desc_4">Track your personal year, month, and day cycles to align your actions with cosmic energies.</string>
+
+    <!-- Home -->
+    <string name="today">Today</string>
+    <string name="your_numbers">Your Numbers</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="universal_day">Universal Day</string>
+    <string name="personal_day">Personal Day</string>
+    <string name="personal_month">Personal Month</string>
+    <string name="personal_year">Personal Year</string>
+    <string name="universal_month">Universal Month</string>
+    <string name="universal_year">Universal Year</string>
+    <string name="no_profiles_yet">No Profiles Yet</string>
+    <string name="create_first_profile">Create your first profile to begin your numerology journey.</string>
+    <string name="primary_profile">Primary Profile</string>
+
+    <!-- Profiles -->
+    <string name="profiles">Profiles</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="delete_profile">Delete Profile</string>
+    <string name="delete_profile_confirm">Are you sure you want to delete %1$s\'s profile? This action cannot be undone.</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name_optional">Middle Name (Optional)</string>
+    <string name="last_name">Last Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="set_as_primary">Set as Primary</string>
+    <string name="set_as_primary_profile">Set as primary profile</string>
+    <string name="save_changes">Save Changes</string>
+
+    <!-- Analysis -->
+    <string name="analysis">Analysis</string>
+    <string name="core_numbers">Core Numbers</string>
+    <string name="special_numbers">Special Numbers</string>
+    <string name="life_cycles">Life Cycles</string>
+    <string name="view_cycles">View Cycles</string>
+
+    <string name="life_path">Life Path</string>
+    <string name="life_path_desc">Your life\'s purpose and journey</string>
+    <string name="expression">Expression</string>
+    <string name="expression_desc">Your natural abilities and talents</string>
+    <string name="soul_urge">Soul Urge</string>
+    <string name="soul_urge_desc">Your inner desires and motivations</string>
+    <string name="personality">Personality</string>
+    <string name="personality_desc">How others perceive you</string>
+    <string name="birthday">Birthday</string>
+    <string name="birthday_desc">Your special talents and gifts</string>
+    <string name="maturity">Maturity</string>
+    <string name="maturity_desc">Your true self emerging in midlife</string>
+    <string name="balance">Balance</string>
+    <string name="balance_desc">How you handle challenges</string>
+    <string name="hidden_passion">Hidden Passion</string>
+    <string name="hidden_passion_desc">Your strongest talents</string>
+    <string name="karmic_lessons">Karmic Lessons</string>
+
+    <string name="pinnacles">Pinnacles</string>
+    <string name="challenges">Challenges</string>
+    <string name="life_periods">Life Periods</string>
+    <string name="missing_numbers">Missing Numbers</string>
+
+    <!-- Analysis Detail -->
+    <string name="interpretation">Interpretation</string>
+    <string name="master_number">Master Number</string>
+    <string name="karmic_debt_number">Karmic Debt %1$d</string>
+    <string name="strengths">Strengths</string>
+    <string name="career_paths">Career Paths</string>
+    <string name="relationships">Relationships</string>
+    <string name="spiritual_guidance">Spiritual Guidance</string>
+    <string name="lucky_aspects">Lucky Aspects</string>
+    <string name="colors">Colors</string>
+    <string name="days">Days</string>
+    <string name="compatible_numbers">Compatible Numbers</string>
+
+    <!-- Compatibility -->
+    <string name="compatibility">Compatibility</string>
+    <string name="compatibility_result">Compatibility Result</string>
+    <string name="need_two_profiles">Two Profiles Required</string>
+    <string name="create_profiles_for_compatibility">Create at least two profiles to check compatibility.</string>
+    <string name="select_profiles">Select Profiles</string>
+    <string name="person_1">Person 1</string>
+    <string name="person_2">Person 2</string>
+    <string name="check_compatibility">Check Compatibility</string>
+    <string name="calculating_compatibility">Calculating compatibility...</string>
+    <string name="relationship_number">Relationship Number</string>
+    <string name="aspect_scores">Aspect Scores</string>
+    <string name="shared_numbers">Shared Numbers</string>
+    <string name="shared_numbers_desc">Numbers you both share indicate natural harmony.</string>
+    <string name="compatibility_excellent">Excellent compatibility! Strong natural harmony.</string>
+    <string name="compatibility_good">Good compatibility with positive potential.</string>
+    <string name="compatibility_moderate">Moderate compatibility with growth opportunities.</string>
+    <string name="compatibility_challenging">Challenging compatibility requiring understanding.</string>
+
+    <!-- Cycles -->
+    <string name="personal_cycles">Personal Cycles</string>
+    <string name="current_cycles">Current Cycles</string>
+    <string name="universal_cycles">Universal Cycles</string>
+    <string name="personal_year_insight">Personal Year Insight</string>
+    <string name="personal_month_insight">Personal Month Insight</string>
+    <string name="personal_day_insight">Personal Day Insight</string>
+    <string name="personal_year_title">Personal Year %1$d</string>
+    <string name="personal_month_title">Personal Month %1$d</string>
+    <string name="personal_day_title">Personal Day %1$d</string>
+    <string name="nine_year_forecast">9-Year Forecast</string>
+
+    <!-- Daily Numbers -->
+    <string name="daily_numbers">Daily Numbers</string>
+    <string name="daily">Daily</string>
+    <string name="previous_day">Previous Day</string>
+    <string name="next_day">Next Day</string>
+    <string name="universal_numbers">Universal Numbers</string>
+    <string name="personal_numbers_for">Personal Numbers for %1$s</string>
+    <string name="no_primary_profile">No Primary Profile</string>
+    <string name="create_profile_for_personal">Create a profile to see your personal numbers.</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="theme">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">System Default</string>
+    <string name="language">Language</string>
+    <string name="numerology">Numerology</string>
+    <string name="calculation_system">Calculation System</string>
+    <string name="system_pythagorean">Pythagorean</string>
+    <string name="system_pythagorean_desc">Western system based on number sequence 1-9</string>
+    <string name="system_chaldean">Chaldean</string>
+    <string name="system_chaldean_desc">Ancient Babylonian system based on sound vibrations</string>
+    <string name="show_master_numbers">Show Master Numbers</string>
+    <string name="show_master_numbers_desc">Highlight 11, 22, and 33 as special numbers</string>
+    <string name="show_karmic_debt">Show Karmic Debt</string>
+    <string name="show_karmic_debt_desc">Indicate karmic debt numbers (13, 14, 16, 19)</string>
+    <string name="about_section">About</string>
+    <string name="about_app">About Numero</string>
+
+    <!-- About -->
+    <string name="about">About</string>
+    <string name="about_description">Numero is a comprehensive numerology app that provides detailed analysis of your core numbers, life cycles, and compatibility with others. Using both Pythagorean and Chaldean systems, it offers accurate insights into your life path and personal characteristics.</string>
+    <string name="features">Features</string>
+    <string name="feature_1">Complete numerology profile analysis</string>
+    <string name="feature_2">Life Path, Expression, Soul Urge calculations</string>
+    <string name="feature_3">Pinnacles, Challenges, and Life Periods</string>
+    <string name="feature_4">Compatibility analysis between profiles</string>
+    <string name="feature_5">Personal and Universal daily cycles</string>
+    <string name="feature_6">Support for English and Nepali</string>
+    <string name="calculation_systems">Calculation Systems</string>
+    <string name="pythagorean_info">Pythagorean: The most widely used Western system where letters A-Z are assigned numbers 1-9 based on their position in the alphabet.</string>
+    <string name="chaldean_info">Chaldean: An ancient Babylonian system where letters are assigned numbers 1-8 based on their sound vibration. Number 9 is considered sacred.</string>
+    <string name="open_source">Open Source Application</string>
+</resources>

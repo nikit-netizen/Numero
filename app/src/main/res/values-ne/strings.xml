@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">नुमेरो</string>
+    <string name="version_number">संस्करण १.०.०</string>
+    <string name="version_info">संस्करण र एप जानकारी</string>
+
+    <!-- Common -->
+    <string name="skip">छोड्नुहोस्</string>
+    <string name="back">पछाडि</string>
+    <string name="next">अर्को</string>
+    <string name="confirm">पुष्टि गर्नुहोस्</string>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+    <string name="save">सुरक्षित गर्नुहोस्</string>
+    <string name="delete">मेट्नुहोस्</string>
+    <string name="edit">सम्पादन</string>
+    <string name="current">हालको</string>
+    <string name="view_all">सबै हेर्नुहोस्</string>
+    <string name="recalculate">पुन: गणना</string>
+    <string name="calculating">गणना गर्दै...</string>
+
+    <!-- Onboarding -->
+    <string name="get_started">सुरु गर्नुहोस्</string>
+    <string name="onboarding_title_1">आफ्नो अंकहरू पत्ता लगाउनुहोस्</string>
+    <string name="onboarding_desc_1">प्राचीन अंक विज्ञानको माध्यमबाट आफ्नो नाम र जन्म मितिमा लुकेका अर्थहरू पत्ता लगाउनुहोस्।</string>
+    <string name="onboarding_title_2">व्यक्तिगत विश्लेषण</string>
+    <string name="onboarding_desc_2">आफ्नो जीवन पथ, अभिव्यक्ति, आत्मा इच्छा, र धेरै मूल अंकहरूमा विस्तृत अन्तरदृष्टि प्राप्त गर्नुहोस्।</string>
+    <string name="onboarding_title_3">सम्बन्ध अनुकूलता</string>
+    <string name="onboarding_desc_3">सम्बन्ध गतिशीलता बुझ्न तपाईं र अरूबीचको अंकीय अनुकूलता अन्वेषण गर्नुहोस्।</string>
+    <string name="onboarding_title_4">जीवन चक्र र मार्गदर्शन</string>
+    <string name="onboarding_desc_4">ब्रह्माण्डीय ऊर्जाहरूसँग आफ्नो कार्यहरू मिलाउन आफ्नो व्यक्तिगत वर्ष, महिना र दिन चक्रहरू ट्र्याक गर्नुहोस्।</string>
+
+    <!-- Home -->
+    <string name="today">आज</string>
+    <string name="your_numbers">तपाईंको अंकहरू</string>
+    <string name="quick_actions">द्रुत कार्यहरू</string>
+    <string name="universal_day">विश्वव्यापी दिन</string>
+    <string name="personal_day">व्यक्तिगत दिन</string>
+    <string name="personal_month">व्यक्तिगत महिना</string>
+    <string name="personal_year">व्यक्तिगत वर्ष</string>
+    <string name="universal_month">विश्वव्यापी महिना</string>
+    <string name="universal_year">विश्वव्यापी वर्ष</string>
+    <string name="no_profiles_yet">अहिलेसम्म कुनै प्रोफाइल छैन</string>
+    <string name="create_first_profile">आफ्नो अंक विज्ञान यात्रा सुरु गर्न आफ्नो पहिलो प्रोफाइल बनाउनुहोस्।</string>
+    <string name="primary_profile">प्राथमिक प्रोफाइल</string>
+
+    <!-- Profiles -->
+    <string name="profiles">प्रोफाइलहरू</string>
+    <string name="add_profile">प्रोफाइल थप्नुहोस्</string>
+    <string name="create_profile">प्रोफाइल बनाउनुहोस्</string>
+    <string name="edit_profile">प्रोफाइल सम्पादन</string>
+    <string name="delete_profile">प्रोफाइल मेट्नुहोस्</string>
+    <string name="delete_profile_confirm">के तपाईं %1$s को प्रोफाइल मेट्न चाहनुहुन्छ? यो कार्य पूर्ववत गर्न सकिँदैन।</string>
+    <string name="first_name">पहिलो नाम</string>
+    <string name="middle_name_optional">बीचको नाम (वैकल्पिक)</string>
+    <string name="last_name">थर</string>
+    <string name="birth_date">जन्म मिति</string>
+    <string name="select_date">मिति छान्नुहोस्</string>
+    <string name="set_as_primary">प्राथमिक बनाउनुहोस्</string>
+    <string name="set_as_primary_profile">प्राथमिक प्रोफाइलको रूपमा सेट गर्नुहोस्</string>
+    <string name="save_changes">परिवर्तनहरू सुरक्षित गर्नुहोस्</string>
+
+    <!-- Analysis -->
+    <string name="analysis">विश्लेषण</string>
+    <string name="core_numbers">मूल अंकहरू</string>
+    <string name="special_numbers">विशेष अंकहरू</string>
+    <string name="life_cycles">जीवन चक्रहरू</string>
+    <string name="view_cycles">चक्रहरू हेर्नुहोस्</string>
+
+    <string name="life_path">जीवन पथ</string>
+    <string name="life_path_desc">तपाईंको जीवनको उद्देश्य र यात्रा</string>
+    <string name="expression">अभिव्यक्ति</string>
+    <string name="expression_desc">तपाईंको प्राकृतिक क्षमता र प्रतिभा</string>
+    <string name="soul_urge">आत्मा इच्छा</string>
+    <string name="soul_urge_desc">तपाईंको भित्री इच्छा र प्रेरणा</string>
+    <string name="personality">व्यक्तित्व</string>
+    <string name="personality_desc">अरूले तपाईंलाई कसरी देख्छन्</string>
+    <string name="birthday">जन्मदिन</string>
+    <string name="birthday_desc">तपाईंको विशेष प्रतिभा र उपहार</string>
+    <string name="maturity">परिपक्वता</string>
+    <string name="maturity_desc">मध्य जीवनमा देखिने तपाईंको वास्तविक स्व</string>
+    <string name="balance">सन्तुलन</string>
+    <string name="balance_desc">तपाईं चुनौतीहरू कसरी सम्हाल्नुहुन्छ</string>
+    <string name="hidden_passion">लुकेको जोश</string>
+    <string name="hidden_passion_desc">तपाईंको सबैभन्दा बलियो प्रतिभा</string>
+    <string name="karmic_lessons">कार्मिक पाठहरू</string>
+
+    <string name="pinnacles">शिखरहरू</string>
+    <string name="challenges">चुनौतीहरू</string>
+    <string name="life_periods">जीवन अवधिहरू</string>
+    <string name="missing_numbers">हराएका अंकहरू</string>
+
+    <!-- Analysis Detail -->
+    <string name="interpretation">व्याख्या</string>
+    <string name="master_number">मास्टर नम्बर</string>
+    <string name="karmic_debt_number">कार्मिक ऋण %1$d</string>
+    <string name="strengths">शक्तिहरू</string>
+    <string name="career_paths">क्यारियर मार्गहरू</string>
+    <string name="relationships">सम्बन्धहरू</string>
+    <string name="spiritual_guidance">आध्यात्मिक मार्गदर्शन</string>
+    <string name="lucky_aspects">भाग्यशाली पक्षहरू</string>
+    <string name="colors">रंगहरू</string>
+    <string name="days">दिनहरू</string>
+    <string name="compatible_numbers">अनुकूल अंकहरू</string>
+
+    <!-- Compatibility -->
+    <string name="compatibility">अनुकूलता</string>
+    <string name="compatibility_result">अनुकूलता परिणाम</string>
+    <string name="need_two_profiles">दुई प्रोफाइल आवश्यक</string>
+    <string name="create_profiles_for_compatibility">अनुकूलता जाँच गर्न कम्तिमा दुई प्रोफाइल बनाउनुहोस्।</string>
+    <string name="select_profiles">प्रोफाइलहरू छान्नुहोस्</string>
+    <string name="person_1">व्यक्ति १</string>
+    <string name="person_2">व्यक्ति २</string>
+    <string name="check_compatibility">अनुकूलता जाँच गर्नुहोस्</string>
+    <string name="calculating_compatibility">अनुकूलता गणना गर्दै...</string>
+    <string name="relationship_number">सम्बन्ध अंक</string>
+    <string name="aspect_scores">पक्ष स्कोरहरू</string>
+    <string name="shared_numbers">साझा अंकहरू</string>
+    <string name="shared_numbers_desc">तपाईं दुवैले साझा गर्ने अंकहरूले प्राकृतिक सामंजस्य संकेत गर्छन्।</string>
+    <string name="compatibility_excellent">उत्कृष्ट अनुकूलता! बलियो प्राकृतिक सामंजस्य।</string>
+    <string name="compatibility_good">सकारात्मक सम्भावनाको साथ राम्रो अनुकूलता।</string>
+    <string name="compatibility_moderate">विकास अवसरहरूको साथ मध्यम अनुकूलता।</string>
+    <string name="compatibility_challenging">बुझाइ आवश्यक पर्ने चुनौतीपूर्ण अनुकूलता।</string>
+
+    <!-- Cycles -->
+    <string name="personal_cycles">व्यक्तिगत चक्रहरू</string>
+    <string name="current_cycles">हालका चक्रहरू</string>
+    <string name="universal_cycles">विश्वव्यापी चक्रहरू</string>
+    <string name="personal_year_insight">व्यक्तिगत वर्ष अन्तरदृष्टि</string>
+    <string name="personal_month_insight">व्यक्तिगत महिना अन्तरदृष्टि</string>
+    <string name="personal_day_insight">व्यक्तिगत दिन अन्तरदृष्टि</string>
+    <string name="personal_year_title">व्यक्तिगत वर्ष %1$d</string>
+    <string name="personal_month_title">व्यक्तिगत महिना %1$d</string>
+    <string name="personal_day_title">व्यक्तिगत दिन %1$d</string>
+    <string name="nine_year_forecast">९ वर्षे पूर्वानुमान</string>
+
+    <!-- Daily Numbers -->
+    <string name="daily_numbers">दैनिक अंकहरू</string>
+    <string name="daily">दैनिक</string>
+    <string name="previous_day">अघिल्लो दिन</string>
+    <string name="next_day">अर्को दिन</string>
+    <string name="universal_numbers">विश्वव्यापी अंकहरू</string>
+    <string name="personal_numbers_for">%1$s को व्यक्तिगत अंकहरू</string>
+    <string name="no_primary_profile">प्राथमिक प्रोफाइल छैन</string>
+    <string name="create_profile_for_personal">आफ्नो व्यक्तिगत अंकहरू हेर्न प्रोफाइल बनाउनुहोस्।</string>
+
+    <!-- Settings -->
+    <string name="settings">सेटिङहरू</string>
+    <string name="appearance">देखावट</string>
+    <string name="theme">थिम</string>
+    <string name="theme_light">उज्यालो</string>
+    <string name="theme_dark">अँध्यारो</string>
+    <string name="theme_system">प्रणाली पूर्वनिर्धारित</string>
+    <string name="language">भाषा</string>
+    <string name="numerology">अंक विज्ञान</string>
+    <string name="calculation_system">गणना प्रणाली</string>
+    <string name="system_pythagorean">पाइथागोरियन</string>
+    <string name="system_pythagorean_desc">१-९ अंक क्रममा आधारित पश्चिमी प्रणाली</string>
+    <string name="system_chaldean">काल्डियन</string>
+    <string name="system_chaldean_desc">ध्वनि कम्पनमा आधारित प्राचीन बेबिलोनियन प्रणाली</string>
+    <string name="show_master_numbers">मास्टर नम्बरहरू देखाउनुहोस्</string>
+    <string name="show_master_numbers_desc">११, २२, र ३३ लाई विशेष अंकको रूपमा हाइलाइट गर्नुहोस्</string>
+    <string name="show_karmic_debt">कार्मिक ऋण देखाउनुहोस्</string>
+    <string name="show_karmic_debt_desc">कार्मिक ऋण अंकहरू (१३, १४, १६, १९) संकेत गर्नुहोस्</string>
+    <string name="about_section">बारेमा</string>
+    <string name="about_app">नुमेरोको बारेमा</string>
+
+    <!-- About -->
+    <string name="about">बारेमा</string>
+    <string name="about_description">नुमेरो एक व्यापक अंक विज्ञान एप हो जसले तपाईंको मूल अंकहरू, जीवन चक्रहरू, र अरूसँगको अनुकूलताको विस्तृत विश्लेषण प्रदान गर्छ। पाइथागोरियन र काल्डियन दुवै प्रणालीहरू प्रयोग गरेर, यसले तपाईंको जीवन पथ र व्यक्तिगत विशेषताहरूमा सटीक अन्तरदृष्टि प्रदान गर्छ।</string>
+    <string name="features">विशेषताहरू</string>
+    <string name="feature_1">पूर्ण अंक विज्ञान प्रोफाइल विश्लेषण</string>
+    <string name="feature_2">जीवन पथ, अभिव्यक्ति, आत्मा इच्छा गणनाहरू</string>
+    <string name="feature_3">शिखरहरू, चुनौतीहरू, र जीवन अवधिहरू</string>
+    <string name="feature_4">प्रोफाइलहरू बीच अनुकूलता विश्लेषण</string>
+    <string name="feature_5">व्यक्तिगत र विश्वव्यापी दैनिक चक्रहरू</string>
+    <string name="feature_6">अंग्रेजी र नेपालीको समर्थन</string>
+    <string name="calculation_systems">गणना प्रणालीहरू</string>
+    <string name="pythagorean_info">पाइथागोरियन: सबैभन्दा व्यापक रूपमा प्रयोग हुने पश्चिमी प्रणाली जहाँ A-Z अक्षरहरूलाई वर्णमालामा तिनीहरूको स्थानको आधारमा १-९ अंकहरू दिइन्छ।</string>
+    <string name="chaldean_info">काल्डियन: एक प्राचीन बेबिलोनियन प्रणाली जहाँ अक्षरहरूलाई तिनीहरूको ध्वनि कम्पनको आधारमा १-८ अंकहरू दिइन्छ। नम्बर ९ पवित्र मानिन्छ।</string>
+    <string name="open_source">खुला स्रोत अनुप्रयोग</string>
+</resources>

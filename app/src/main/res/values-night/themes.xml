@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme -->
+    <style name="Theme.Numero" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_dark</item>
+        <item name="android:navigationBarColor">@color/surface_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Splash screen theme - dark -->
+    <style name="Theme.Numero.Splash" parent="Theme.Numero">
+        <item name="android:windowBackground">@color/purple_dark</item>
+    </style>
+</resources>
